@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "402726722525",
+    "firebase_url": "https://eat-it-1f7d3.firebaseio.com",
+    "project_id": "eat-it-1f7d3",
+    "storage_bucket": "eat-it-1f7d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402726722525:android:525453285607eb5b",
+        "android_client_info": {
+          "package_name": "com.example.eslam.eatit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "402726722525-sah3l3kq8ce695resusl9818rj260uct.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.eslam.eatit",
+            "certificate_hash": "d4cdbd61f1e7387e7e9561a611f2f8f4e56020b8"
+          }
+        },
+        {
+          "client_id": "402726722525-clv93dsr74n594pmsk101uuhku8s8aic.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCDIIt93TkUqSNE5lYbkeAClmiegLW760"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "402726722525-clv93dsr74n594pmsk101uuhku8s8aic.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
